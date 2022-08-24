@@ -34,7 +34,8 @@ li, a {
 background: none;
 font-size: 30px;
 padding: 3px;
-text-shadow: 1px 1px 2px white;
+text-shadow: 1px 1px 2px rgb(0, 0, 0);
+color: white;
 }
 
 .navbar {
@@ -67,6 +68,7 @@ text-shadow: 1px 1px 2px white;
     font-size: 20px;
     margin-top: 40px;
     margin-bottom: 40px;
+    color: white;
 }
 
 h2 {
