@@ -1,7 +1,7 @@
 *{
 /*background-color: rgb(180, 214, 228);*/
 justify-content: center;
-background-image: url('../assets/images/backgroundimg.jpeg');
+background-image: url('../assets/images/backgroundimg2.jpeg');
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -75,8 +75,9 @@ h2 {
     border: 2px solid black;
     margin: 1rem;
     box-shadow: 3px 3px 3px black;
-    background-image: linear-gradient(darkblue, skyblue);
-    text-shadow: 1px 1px 2px white;
+    background-color: skyblue;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+    color: white;
 }
 
 .myworkpics {
