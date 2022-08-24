@@ -7,10 +7,10 @@ header {
     display: block;
 }
 
-a:hover {
+/*a:hover {
     background-color: rgb(16, 189, 155);
 }
-
+*/
 aside {
     justify-content: center;
 }
@@ -20,13 +20,15 @@ text-shadow: 1px 2px 2px black;
 font-size: 250%;
 display: flex; 
 justify-content: center;
-color: rgb(138, 14, 14);
+color: rgb(159, 23, 23);
 
 }
 
-li {
-
+li, a {
+background: none;
+font-size: 30px;
 padding: 3px;
+text-shadow: 1px 1px 2px white;
 }
 
 .navbar {
@@ -35,8 +37,8 @@ padding: 3px;
     padding: 3px;
     border: 2px solid black;
     font-size: 20px;
-    
-   color: rgb(20, 0, 172);
+    background-image: linear-gradient(darkblue, skyblue);
+   color: rgb(0, 0, 0);
     
 }
 
@@ -69,7 +71,8 @@ h2 {
     border: 2px solid black;
     margin: 1rem;
     box-shadow: 3px 3px 3px black;
-    
+    background-image: linear-gradient(darkblue, skyblue);
+    text-shadow: 1px 1px 2px white;
 }
 
 .myworkpics {
