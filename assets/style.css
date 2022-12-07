@@ -12,9 +12,9 @@ header {
     display: block;
 }
 
-a:hover {
+/* a:hover {
     background-color: rgb(16, 189, 155);
-}
+} */
 
 aside {
     justify-content: center;
